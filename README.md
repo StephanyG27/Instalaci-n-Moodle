@@ -2,10 +2,13 @@
 
 Para instalar Moodle lo primero que hice fue seguir el manual de instalación de aplicaciones web que se encuentra en el Github de Rusben. https://github.com/rusben/smx-m08/blob/main/docs/installacio-aplicacions-web.md 
 
-Una vez todos los pasos estén hechos, lo que hice fue instalar la versión de Moodle
+Una vez todos los pasos estén hechos, lo que hice fue instalar la versión de Moodle que se encuentra en el repositorio de Rubén, después 
+
+
 ![Captura desde 2025-02-27 13-49-58](https://github.com/user-attachments/assets/4fe4f315-a556-47bd-9bb8-8b4f6b42ff73)
 
 ![Captura desde 2025-02-27 14-10-57](https://github.com/user-attachments/assets/1d509d3e-ad4d-40e3-b543-f1f7e68227e5)
+Luego salió
 
 ![Captura desde 2025-02-27 14-12-07](https://github.com/user-attachments/assets/f149b28d-6d59-40fc-ae3d-91713a9f2a9a)
 
@@ -23,4 +26,5 @@ Una vez todos los pasos estén hechos, lo que hice fue instalar la versión de M
 
 
 
+![imagen](https://github.com/user-attachments/assets/67ca0aa2-901b-403a-aaf5-46bdc42b661a)
 
