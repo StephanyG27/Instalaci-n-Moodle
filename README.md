@@ -34,6 +34,8 @@ Creé el curso A y el B y cambié los temas.
 ![image](https://github.com/user-attachments/assets/3e404bc7-a2b2-4759-9a05-447c1d97bad2)
 ![image](https://github.com/user-attachments/assets/2d4ce9a1-428b-419e-bc3b-37354b764cb9)
 
+He subido el PDF a la clase A y he cambiado el nombre del tema.
+![image](https://github.com/user-attachments/assets/c5b8dcaf-ffb3-4d53-88b4-cd423a63a4cb)
 
 
 
