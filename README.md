@@ -1,4 +1,4 @@
-# Instalacion-Moodle
+# Instalación-Moodle
 
 Para instalar Moodle lo primero que hice fue seguir el manual de instalación de aplicaciones web que se encuentra en el Github de Rusben. https://github.com/rusben/smx-m08/blob/main/docs/installacio-aplicacions-web.md 
 
