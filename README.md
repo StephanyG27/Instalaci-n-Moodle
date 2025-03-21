@@ -40,7 +40,14 @@ He subido el PDF a la clase A y he cambiado el nombre del tema.
 He creado a Bob de manera manual.
 ![image](https://github.com/user-attachments/assets/025132ec-be02-4209-acb4-e1d56214f3bb)
 
+He creado los 10 usuarios usando el editor de texto, y guardando los 10 usuarios con Ctrl+S. Luego al subirlo he cambiado el separador CSV de ";" por una ",".
+![image](https://github.com/user-attachments/assets/d51c1b7d-7396-4758-80e5-879b146e948a)
+![image](https://github.com/user-attachments/assets/2e5613f9-f55a-4bff-8d84-8c4ec3202c94)
+![image](https://github.com/user-attachments/assets/971e66f4-1bb5-4fd7-bbe0-e8a5dff08f3e)
 
+Ahora para eliminar usuarios vas abajo, y en "Con los usuarios seleccionados..." Seleccionas la opción de borrar en el desplegable y le das a "Ir".
+![image](https://github.com/user-attachments/assets/cab87b5c-1c34-4278-b92f-8056f0681611)
+![image](https://github.com/user-attachments/assets/e54c2bdd-05e9-4c4f-bd4d-4927827af361)
 
 
 
