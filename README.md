@@ -49,7 +49,7 @@ Ahora para eliminar usuarios vas abajo, y en "Con los usuarios seleccionados..."
 ![image](https://github.com/user-attachments/assets/cab87b5c-1c34-4278-b92f-8056f0681611)
 ![image](https://github.com/user-attachments/assets/e54c2bdd-05e9-4c4f-bd4d-4927827af361)
 
-En métodos de matriculación del grupo A, he desactivado la matriculación manual y he activado el acceso de invitados.
+He entrado al grupo A, y en participantes he cambiado el desplegable a usuarios matriculados. En métodos de matriculación del grupo A, he desactivado la matriculación manual y he activado el acceso de invitados.
 ![image](https://github.com/user-attachments/assets/0597cbf7-8b41-4344-9d5c-3d4916ac8ba5)
 
 
