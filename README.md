@@ -37,6 +37,8 @@ Creé el curso A y el B y cambié los temas.
 He subido el PDF a la clase A y he cambiado el nombre del tema.
 ![image](https://github.com/user-attachments/assets/c5b8dcaf-ffb3-4d53-88b4-cd423a63a4cb)
 
+He creado a Bob de manera manual.
+![image](https://github.com/user-attachments/assets/025132ec-be02-4209-acb4-e1d56214f3bb)
 
 
 
