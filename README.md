@@ -52,116 +52,32 @@ Ahora para eliminar usuarios vas abajo, y en "Con los usuarios seleccionados..."
 He entrado al grupo A, y en participantes he cambiado el desplegable a usuarios matriculados. En métodos de matriculación del grupo A, he desactivado la matriculación manual y he activado el acceso de invitados.
 ![image](https://github.com/user-attachments/assets/0597cbf7-8b41-4344-9d5c-3d4916ac8ba5)
 
+Ahora he matriculado manualmente a los alumnos en el grupo B desde "matricular usuarios".
+![imagen](https://github.com/user-attachments/assets/8ec69ff5-47f8-4b57-9fe1-a2565ea9851b)
 
+He matriculado a Bob como profesor.
+![imagen](https://github.com/user-attachments/assets/b0363691-ef9c-496f-8a19-a459fe5ccd14)
 
+He comprovado el contenido cerrando sesión, entrando como invitada y añadiendo course en el enlace.
+![imagen](https://github.com/user-attachments/assets/3c94cadd-13e1-4ec9-8046-2b299e45cad4)
 
+El grupo A está abierto para todos, mientras que al entrar al grupo B, necesitas iniciar sesión.
 
+![imagen](https://github.com/user-attachments/assets/8a57f3e7-4084-430e-bf59-95a72af4de4f)
 
+![imagen](https://github.com/user-attachments/assets/1f9c87a0-c7cf-4451-a29f-62e01e769102)
 
+Para cambiar el tema he ido a administración del sitio, y en apariencia he entrado a temas.
+![imagen](https://github.com/user-attachments/assets/c6fd04fc-96bf-44ef-9286-f6363b7a6e0c)
+Diferencias entre los temas:
+Tema Clásico
+![imagen](https://github.com/user-attachments/assets/917957ef-4596-4837-b279-28d8e94cd5aa)
+Tema Boost
+![imagen](https://github.com/user-attachments/assets/875dae0e-6173-4989-9122-bc19bb9933d2)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+He matriculado a un usuario como profesor y otros usuarios como alumnos. 
+![imagen](https://github.com/user-attachments/assets/93c053f4-ce52-4453-9480-b1e9d1deab1e)
+![imagen](https://github.com/user-attachments/assets/31876d62-86f7-4156-b46a-319d8d8b356d)
 
 
 
