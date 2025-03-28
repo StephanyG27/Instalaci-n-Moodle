@@ -79,6 +79,9 @@ He matriculado a un usuario como profesor y otros usuarios como alumnos.
 ![imagen](https://github.com/user-attachments/assets/93c053f4-ce52-4453-9480-b1e9d1deab1e)
 ![imagen](https://github.com/user-attachments/assets/31876d62-86f7-4156-b46a-319d8d8b356d)
 
+He creado una tarea como profesor y la entrega debe ser en pdf.
+![imagen](https://github.com/user-attachments/assets/b45c1001-b178-4c81-9c5f-2e6661de051b)
+![imagen](https://github.com/user-attachments/assets/b8a8825a-1c92-46af-92e7-496c3371d457)
 
 
 
