@@ -82,6 +82,8 @@ He matriculado a un usuario como profesor y otros usuarios como alumnos.
 He creado una tarea como profesor y la entrega debe ser en pdf.
 ![imagen](https://github.com/user-attachments/assets/b45c1001-b178-4c81-9c5f-2e6661de051b)
 ![imagen](https://github.com/user-attachments/assets/b8a8825a-1c92-46af-92e7-496c3371d457)
+He entrado para comprovar que se puede entregar la tarea.
+![imagen](https://github.com/user-attachments/assets/1f304423-00a6-4f57-9b98-ffec5a6bc0b5)
 
 
 
