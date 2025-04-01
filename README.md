@@ -85,8 +85,14 @@ He creado una tarea como profesor y la entrega debe ser en pdf.
 He entrado para comprovar que se puede entregar la tarea.
 ![imagen](https://github.com/user-attachments/assets/1f304423-00a6-4f57-9b98-ffec5a6bc0b5)
 
+He añadido un libro en PDF, ejercicios y una encuesta.
+![imagen](https://github.com/user-attachments/assets/85a668ed-8ad7-4ed8-b62d-28c454b4bcad)
+![imagen](https://github.com/user-attachments/assets/c5c18fdf-8de4-4a0f-a083-c3a798c9ae37)
+![imagen](https://github.com/user-attachments/assets/d5861b63-121d-48ea-8026-05170be6ff08)
+![imagen](https://github.com/user-attachments/assets/ad082f9e-b584-4da4-b1b9-0e72766fbf8a)
 
-
+He copiado el curso A.
+![imagen](https://github.com/user-attachments/assets/6af96bef-6ac6-42c0-b8b4-628c94cdc080)
 
 
 
